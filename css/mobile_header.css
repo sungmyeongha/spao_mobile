@@ -77,10 +77,9 @@ a {
 .header_pan {
     max-width: 660px;
     height: 100vh;
-    position: absolute;
+    position: fixed;
     z-index: 999999999;
     background-color: white;
-    top: 0px;
     left: -200%;
     background-color: white;
     padding: 0 10px;
