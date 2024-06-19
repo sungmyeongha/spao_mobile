@@ -1,7 +1,7 @@
 $('.ham_btn').click(function(){
 
     $('.header_pan').animate({
-    
+        
         left:'0',
         Zindex:`99999999999999999999`
     }, 1000)
@@ -23,13 +23,12 @@ $('.ham_btn').click(function(){
 $('.x_btn').click(function(){
 
     $('.header_pan').animate({
-    
+        position:'fixed',
         left:'-200%'
     }, 300)
 
     $('.header').css({
         position:'fixed'
-
     })
 
     $('body').css({
