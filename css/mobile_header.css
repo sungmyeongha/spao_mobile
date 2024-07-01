@@ -45,7 +45,7 @@ a {
     display: flex;
     line-height:  50px;
     height: 50px;
-    gap: 15px
+    gap: 15px;
 
     justify-content: center;
 }
