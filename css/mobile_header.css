@@ -18,7 +18,7 @@ a {
 
 /* 헤더 */
 .header {
-    width:calc(100% - 2px);
+    width:calc(100% - 12px);
     position: fixed;
     top: 0px;
     z-index: 9999999999;
